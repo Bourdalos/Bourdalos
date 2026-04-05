@@ -7,7 +7,7 @@ PhD Researcher and Mechanical Engineer at the Department of Mechanical Engineeri
 
 
 ## Research interests
-- Rotating machinery fault diagnosis & prognositcs
+- Rotating machinery fault diagnosis & prognostics
 - Gearbox vibration analysis
 - Statistical time-series modeling
 - Structural health monitoring (SHM)
