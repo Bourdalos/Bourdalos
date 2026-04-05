@@ -2,7 +2,8 @@
 
 # Dimitrios Bourdalos
 
-PhD Researcher and Mechanical Engineer specializing in the dynamic identification and prognosis of stochastic mechanical systems. Expert in applying Statistical Time Series (STS), Machine Learning (ML), and AI methods for vibration-based condition monitoring of rotating machinery. Proven ability in full-cycle research, from hands-on instrumentation and field experiments to the development and validation of innovative AI-based diagnostic units. Recognized with a HFRI Fellowship and significant experience in R&D project management and EU/national fundraising.
+
+PhD Researcher and Mechanical Engineer at the Department of Mechanical Engineering and Aeronautics, University of Patras, Greece, and a member of the Stochastic Mechanical Systems & Automation Laboratory (SMSA Lab), specializing in the dynamic identification and prognosis of stochastic mechanical systems. Expert in applying Statistical Time Series (STS), Machine Learning (ML), and AI methods for vibration-based condition monitoring of rotating machinery. Proven ability in full-cycle research, from hands-on instrumentation and field experiments to the development and validation of innovative AI-based diagnostic units. Recognized with a HFRI Fellowship and significant experience in R&D project management and EU/national fundraising.
 
 
 ## Research interests
